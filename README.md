@@ -1,9 +1,6 @@
 # ACM-Grand-Challenge-2020-BioMedia
 ACM Grand Challenge 2020 BioMedia
 
-# Sperm
-biomedia-2020
-
 # Tasks
 
 The first two tasks relate to predicting common measurements used for semen quality assessment, For both tasks, participants are asked to perform video analysis over single frame analysis.  
@@ -27,9 +24,11 @@ VISEM contains five CSV files:
 Mean squared error, mean absolute error and the root mean squared error. 
 
 
-# Methods
+# Key packages
 
-Lasso、LightGBM、Xgboost
+sklearn: 0.21.2  
+lightgbm: 2.2.3    
+xgboost: 1.1.1  
 
 
 # Results

@@ -1,0 +1,13 @@
+participant_related_data.csv
+Abstinence time (days) - Days of sexual abstinence.
+
+analysis_data.csv
+Total sperm count (x10⁶) - Sperm concentration x ejaculate volume.
+Sperm vitality (%) - Percentage of live spermatozoa. Relevant if sample contain a high number of immotile sperm. Test will show if the spermatozoa are immotile or dead.
+Normal spermatozoa (%) - Percentage of morphologically normal spermatozoa.
+Head defects (%) - Percentage of spermatozoa with abnormal head morphology.
+Midpiece and neck defects (%) - Percentage of spermatozoa with abnormal morphology in the midpiece/neck region.
+Tail defects (%) - Percentage of spermatozoa with tail abnormalities.
+Progressive motility (%) - Percentage of spermatozoa with active movement, forward or large circle movement.
+Non progressive sperm motility (%) - Percentage of spermatozoa with movement but with no forward progression.
+Immotile sperm (%) - No movement at all.
